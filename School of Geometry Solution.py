@@ -1,3 +1,4 @@
+# Link to School of Geometry: https://www.codechef.com/problems/SNUG_FIT
 Testcases = int(input())
 DiameterTotalArray = list()
 DiameterTotal = 0
